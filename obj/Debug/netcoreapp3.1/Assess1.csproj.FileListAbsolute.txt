@@ -1,0 +1,14 @@
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\bin\Debug\netcoreapp3.1\Assess1.exe
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\bin\Debug\netcoreapp3.1\Assess1.deps.json
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\bin\Debug\netcoreapp3.1\Assess1.runtimeconfig.json
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\bin\Debug\netcoreapp3.1\Assess1.runtimeconfig.dev.json
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\bin\Debug\netcoreapp3.1\Assess1.dll
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\bin\Debug\netcoreapp3.1\Assess1.pdb
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\obj\Debug\netcoreapp3.1\Assess1.csproj.AssemblyReference.cache
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\obj\Debug\netcoreapp3.1\Assess1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\obj\Debug\netcoreapp3.1\Assess1.AssemblyInfoInputs.cache
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\obj\Debug\netcoreapp3.1\Assess1.AssemblyInfo.cs
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\obj\Debug\netcoreapp3.1\Assess1.csproj.CoreCompileInputs.cache
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\obj\Debug\netcoreapp3.1\Assess1.dll
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\obj\Debug\netcoreapp3.1\Assess1.pdb
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assess1\obj\Debug\netcoreapp3.1\Assess1.genruntimeconfig.cache
